@@ -1,4 +1,4 @@
-#include<iostream>
+#include<bits/stdc++.h>
 #include<stdio.h>
 using namespace std;
 int searchh(float inp,float a[],int lb,int ub)
